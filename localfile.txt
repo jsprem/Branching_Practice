@@ -1,3 +1,5 @@
 This is local text file created in localbranch.
 Contents from local machine.
 
+
+Content Added from the server.
