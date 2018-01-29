@@ -1,5 +1,0 @@
-Hello World
-from devTest branch.
-
-Added comment.
-
