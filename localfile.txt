@@ -1,8 +1,10 @@
 This is local text file created in localbranch.
 Contents from local machine.
 
+New Changes are done here.
+
 Content Added from the server.
 
 
-New line from local machine without pulling new changes on server.
 
+New line from local machine without pulling new changes on server.
