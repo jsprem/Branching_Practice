@@ -1,5 +1,10 @@
 This is local text file created in localbranch.
 Contents from local machine.
 
+<<<<<<< HEAD
 Now making changes without doing checkout and trying to update on server.
 
+=======
+
+Content Added from the server.
+>>>>>>> 12021c86b876f04d79ea0ad06ef40850f135d7de
